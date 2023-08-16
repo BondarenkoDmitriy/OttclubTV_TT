@@ -1,0 +1,12 @@
+@import './variables.scss';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter";
+  font-weight: 400;
+  color: $tx-color;
+  background-color: #000;
+}
